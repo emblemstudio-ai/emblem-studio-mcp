@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.emblemstudio-ai/emblem-studio",
+  "title": "Emblem Studio: popups and opt-in forms",
+  "description": "Build popups and opt-in forms on your website with AI. Lead capture, A/B tests, stats and surveys.",
+  "version": "1.4.18-beta",
+  "websiteUrl": "https://emblemstudio.ai/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://emblemstudio.ai/mcp/strategist"
+    }
+  ]
+}

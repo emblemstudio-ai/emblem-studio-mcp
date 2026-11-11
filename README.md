@@ -31,7 +31,7 @@ claude mcp add --transport http emblem-studio https://emblemstudio.ai/mcp/strate
 
 ## Access
 
-Emblem Studio is free during the beta. Accounts are by invitation for now. [Join the beta](https://emblemstudio.ai/#apply).
+Emblem Studio is free during the beta, and anyone can sign up. [Create a free account](https://emblemstudio.ai/signup).
 
 Full guide: [emblemstudio.ai/mcp](https://emblemstudio.ai/mcp)
 

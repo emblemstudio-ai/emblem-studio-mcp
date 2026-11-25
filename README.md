@@ -1,5 +1,7 @@
 # Emblem Studio MCP server
 
+[![Emblem Studio MCP connector](https://glama.ai/mcp/connectors/io.github.emblemstudio-ai/emblem-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emblemstudio-ai/emblem-studio)
+
 Build popups and opt-in forms on your website from Claude or any MCP client. Lead capture with A/B testing, stats, surveys and scheduling.
 
 **Server address:** `https://emblemstudio.ai/mcp/strategist`
